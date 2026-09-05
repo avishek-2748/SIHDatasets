@@ -1,0 +1,916 @@
+year_month,port_name,country,region_cluster,monsoon_risk_level,cyclone_risk_level,typical_disruption_days,notes
+2021-09,Paradip,India,East Coast India,High,Low,1.37,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2021-09,Visakhapatnam (Inner),India,East Coast India,High,Low,1.95,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2021-09,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.73,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2021-09,Gangavaram,India,East Coast India,High,Low,1.6,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2021-09,Dhamra,India,East Coast India,High,Low,1.16,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2021-09,Gopalpur,India,East Coast India,High,Low,1.16,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2021-09,Haldia Dock Complex,India,East Coast India,High,Low,1.06,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2021-09,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.73,Dry season; minimal tropical cyclone risk.
+2021-09,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.6,Dry season; minimal tropical cyclone risk.
+2021-09,Gladstone,Australia,Australia East Coast,Low,Low,0.65,Dry season; minimal tropical cyclone risk.
+2021-09,Port Hedland,Australia,Australia West Coast,Low,Low,0.31,Dry season; minimal tropical cyclone risk.
+2021-09,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.78,Winter–spring; low cyclone risk.
+2021-09,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.72,Winter–spring; low cyclone risk.
+2021-09,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.41,Dry season (Jun–Sep); lower weather risk.
+2021-09,Baltimore / Norfolk,USA,USA East Coast,Low,High,2.36,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2021-10,Paradip,India,East Coast India,Low,High,2.37,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-10,Visakhapatnam (Inner),India,East Coast India,Low,High,2.61,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-10,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,High,3.05,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-10,Gangavaram,India,East Coast India,Low,High,2.86,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-10,Dhamra,India,East Coast India,Low,High,2.58,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-10,Gopalpur,India,East Coast India,Low,High,3.22,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-10,Haldia Dock Complex,India,East Coast India,Low,High,2.28,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-10,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.45,Dry season; minimal tropical cyclone risk.
+2021-10,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.48,Dry season; minimal tropical cyclone risk.
+2021-10,Gladstone,Australia,Australia East Coast,Low,Low,0.53,Dry season; minimal tropical cyclone risk.
+2021-10,Port Hedland,Australia,Australia West Coast,Low,Low,0.69,Dry season; minimal tropical cyclone risk.
+2021-10,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.4,Winter–spring; low cyclone risk.
+2021-10,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.56,Winter–spring; low cyclone risk.
+2021-10,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.59,Rainy season (Oct–Apr); moderate weather disruption risk.
+2021-10,Baltimore / Norfolk,USA,USA East Coast,Low,High,2.09,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2021-11,Paradip,India,East Coast India,Low,High,3.22,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-11,Visakhapatnam (Inner),India,East Coast India,Low,High,2.34,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-11,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,High,2.13,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-11,Gangavaram,India,East Coast India,Low,High,3.9,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-11,Dhamra,India,East Coast India,Low,High,3.93,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-11,Gopalpur,India,East Coast India,Low,High,3.62,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-11,Haldia Dock Complex,India,East Coast India,Low,High,2.61,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2021-11,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.1,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2021-11,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.68,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2021-11,Gladstone,Australia,Australia East Coast,Low,Medium,1.44,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2021-11,Port Hedland,Australia,Australia West Coast,Low,Medium,1.12,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2021-11,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.5,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2021-11,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.03,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2021-11,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,3.82,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2021-11,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.26,Atlantic hurricane season (Jun–Nov); moderate risk.
+2021-12,Paradip,India,East Coast India,Low,Medium,1.99,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2021-12,Visakhapatnam (Inner),India,East Coast India,Low,Medium,1.47,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2021-12,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,1.78,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2021-12,Gangavaram,India,East Coast India,Low,Medium,1.82,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2021-12,Dhamra,India,East Coast India,Low,Medium,1.28,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2021-12,Gopalpur,India,East Coast India,Low,Medium,2.45,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2021-12,Haldia Dock Complex,India,East Coast India,Low,Medium,2.16,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2021-12,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.94,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2021-12,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.89,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2021-12,Gladstone,Australia,Australia East Coast,Low,Medium,1.6,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2021-12,Port Hedland,Australia,Australia West Coast,Low,Medium,1.92,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2021-12,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.09,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2021-12,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.2,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2021-12,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,2.09,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2021-12,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.46,Outside hurricane season; low tropical cyclone risk.
+2022-01,Paradip,India,East Coast India,Low,Low,0.49,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-01,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.44,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-01,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.71,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-01,Gangavaram,India,East Coast India,Low,Low,0.48,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-01,Dhamra,India,East Coast India,Low,Low,0.44,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-01,Gopalpur,India,East Coast India,Low,Low,0.57,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-01,Haldia Dock Complex,India,East Coast India,Low,Low,0.37,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-01,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,3.6,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-01,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,2.15,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-01,Gladstone,Australia,Australia East Coast,Low,High,3.97,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-01,Port Hedland,Australia,Australia West Coast,Low,High,3.54,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-01,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,2.4,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2022-01,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,2.01,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2022-01,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,3.63,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2022-01,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.65,Outside hurricane season; low tropical cyclone risk.
+2022-02,Paradip,India,East Coast India,Low,Low,0.66,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-02,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.69,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-02,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-02,Gangavaram,India,East Coast India,Low,Low,0.48,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-02,Dhamra,India,East Coast India,Low,Low,0.36,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-02,Gopalpur,India,East Coast India,Low,Low,0.73,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-02,Haldia Dock Complex,India,East Coast India,Low,Low,0.61,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-02,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,2.66,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-02,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,2.13,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-02,Gladstone,Australia,Australia East Coast,Low,High,2.62,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-02,Port Hedland,Australia,Australia West Coast,Low,High,2.65,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-02,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,3.46,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2022-02,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,3.28,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2022-02,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,3.77,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2022-02,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.54,Outside hurricane season; low tropical cyclone risk.
+2022-03,Paradip,India,East Coast India,Low,Low,0.36,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-03,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.66,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-03,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.68,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-03,Gangavaram,India,East Coast India,Low,Low,0.58,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-03,Dhamra,India,East Coast India,Low,Low,0.69,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-03,Gopalpur,India,East Coast India,Low,Low,0.55,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-03,Haldia Dock Complex,India,East Coast India,Low,Low,0.56,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-03,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,2.86,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-03,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,2.05,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-03,Gladstone,Australia,Australia East Coast,Low,High,2.22,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-03,Port Hedland,Australia,Australia West Coast,Low,High,2.06,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2022-03,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,3.27,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2022-03,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,2.63,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2022-03,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.51,Rainy season (Oct–Apr); moderate weather disruption risk.
+2022-03,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.75,Outside hurricane season; low tropical cyclone risk.
+2022-04,Paradip,India,East Coast India,Low,Medium,1.37,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-04,Visakhapatnam (Inner),India,East Coast India,Low,Medium,1.62,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-04,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,2.13,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-04,Gangavaram,India,East Coast India,Low,Medium,1.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-04,Dhamra,India,East Coast India,Low,Medium,1.12,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-04,Gopalpur,India,East Coast India,Low,Medium,1.43,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-04,Haldia Dock Complex,India,East Coast India,Low,Medium,1.24,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-04,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.93,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-04,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.81,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-04,Gladstone,Australia,Australia East Coast,Low,Medium,1.63,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-04,Port Hedland,Australia,Australia West Coast,Low,Medium,1.87,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-04,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.8,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2022-04,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.19,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2022-04,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.89,Rainy season (Oct–Apr); moderate weather disruption risk.
+2022-04,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.57,Outside hurricane season; low tropical cyclone risk.
+2022-05,Paradip,India,East Coast India,Low,Medium,2.21,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-05,Visakhapatnam (Inner),India,East Coast India,Low,Medium,2.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-05,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,1.48,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-05,Gangavaram,India,East Coast India,Low,Medium,1.17,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-05,Dhamra,India,East Coast India,Low,Medium,1.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-05,Gopalpur,India,East Coast India,Low,Medium,1.64,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-05,Haldia Dock Complex,India,East Coast India,Low,Medium,2.23,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-05,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.73,Dry season; minimal tropical cyclone risk.
+2022-05,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.3,Dry season; minimal tropical cyclone risk.
+2022-05,Gladstone,Australia,Australia East Coast,Low,Low,0.56,Dry season; minimal tropical cyclone risk.
+2022-05,Port Hedland,Australia,Australia West Coast,Low,Low,0.51,Dry season; minimal tropical cyclone risk.
+2022-05,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.41,Winter–spring; low cyclone risk.
+2022-05,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.36,Winter–spring; low cyclone risk.
+2022-05,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.47,Dry season (Jun–Sep); lower weather risk.
+2022-05,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.77,Outside hurricane season; low tropical cyclone risk.
+2022-06,Paradip,India,East Coast India,High,Low,1.32,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-06,Visakhapatnam (Inner),India,East Coast India,High,Low,1.52,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-06,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.7,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-06,Gangavaram,India,East Coast India,High,Low,1.36,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-06,Dhamra,India,East Coast India,High,Low,1.97,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-06,Gopalpur,India,East Coast India,High,Low,1.96,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-06,Haldia Dock Complex,India,East Coast India,High,Low,1.25,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-06,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.55,Dry season; minimal tropical cyclone risk.
+2022-06,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.45,Dry season; minimal tropical cyclone risk.
+2022-06,Gladstone,Australia,Australia East Coast,Low,Low,0.44,Dry season; minimal tropical cyclone risk.
+2022-06,Port Hedland,Australia,Australia West Coast,Low,Low,0.32,Dry season; minimal tropical cyclone risk.
+2022-06,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.6,Winter–spring; low cyclone risk.
+2022-06,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.55,Winter–spring; low cyclone risk.
+2022-06,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.33,Dry season (Jun–Sep); lower weather risk.
+2022-06,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.28,Atlantic hurricane season (Jun–Nov); moderate risk.
+2022-07,Paradip,India,East Coast India,High,Low,1.91,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-07,Visakhapatnam (Inner),India,East Coast India,High,Low,1.24,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-07,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.14,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-07,Gangavaram,India,East Coast India,High,Low,1.49,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-07,Dhamra,India,East Coast India,High,Low,1.99,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-07,Gopalpur,India,East Coast India,High,Low,1.24,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-07,Haldia Dock Complex,India,East Coast India,High,Low,1.67,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-07,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.68,Dry season; minimal tropical cyclone risk.
+2022-07,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.42,Dry season; minimal tropical cyclone risk.
+2022-07,Gladstone,Australia,Australia East Coast,Low,Low,0.66,Dry season; minimal tropical cyclone risk.
+2022-07,Port Hedland,Australia,Australia West Coast,Low,Low,0.48,Dry season; minimal tropical cyclone risk.
+2022-07,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.62,Winter–spring; low cyclone risk.
+2022-07,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.62,Winter–spring; low cyclone risk.
+2022-07,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.57,Dry season (Jun–Sep); lower weather risk.
+2022-07,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.09,Atlantic hurricane season (Jun–Nov); moderate risk.
+2022-08,Paradip,India,East Coast India,High,Low,1.84,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-08,Visakhapatnam (Inner),India,East Coast India,High,Low,1.32,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-08,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.19,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-08,Gangavaram,India,East Coast India,High,Low,1.04,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-08,Dhamra,India,East Coast India,High,Low,1.59,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-08,Gopalpur,India,East Coast India,High,Low,1.68,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-08,Haldia Dock Complex,India,East Coast India,High,Low,1.02,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-08,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.56,Dry season; minimal tropical cyclone risk.
+2022-08,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.41,Dry season; minimal tropical cyclone risk.
+2022-08,Gladstone,Australia,Australia East Coast,Low,Low,0.62,Dry season; minimal tropical cyclone risk.
+2022-08,Port Hedland,Australia,Australia West Coast,Low,Low,0.39,Dry season; minimal tropical cyclone risk.
+2022-08,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.65,Winter–spring; low cyclone risk.
+2022-08,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.49,Winter–spring; low cyclone risk.
+2022-08,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.77,Dry season (Jun–Sep); lower weather risk.
+2022-08,Baltimore / Norfolk,USA,USA East Coast,Low,High,2.28,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2022-09,Paradip,India,East Coast India,High,Low,1.34,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-09,Visakhapatnam (Inner),India,East Coast India,High,Low,1.11,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-09,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.92,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-09,Gangavaram,India,East Coast India,High,Low,1.88,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-09,Dhamra,India,East Coast India,High,Low,1.26,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-09,Gopalpur,India,East Coast India,High,Low,1.66,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-09,Haldia Dock Complex,India,East Coast India,High,Low,1.82,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2022-09,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.58,Dry season; minimal tropical cyclone risk.
+2022-09,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.56,Dry season; minimal tropical cyclone risk.
+2022-09,Gladstone,Australia,Australia East Coast,Low,Low,0.42,Dry season; minimal tropical cyclone risk.
+2022-09,Port Hedland,Australia,Australia West Coast,Low,Low,0.35,Dry season; minimal tropical cyclone risk.
+2022-09,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.75,Winter–spring; low cyclone risk.
+2022-09,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.75,Winter–spring; low cyclone risk.
+2022-09,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.62,Dry season (Jun–Sep); lower weather risk.
+2022-09,Baltimore / Norfolk,USA,USA East Coast,Low,High,2.68,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2022-10,Paradip,India,East Coast India,Low,High,2.7,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-10,Visakhapatnam (Inner),India,East Coast India,Low,High,3.45,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-10,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,High,3.79,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-10,Gangavaram,India,East Coast India,Low,High,3.77,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-10,Dhamra,India,East Coast India,Low,High,3.56,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-10,Gopalpur,India,East Coast India,Low,High,3.28,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-10,Haldia Dock Complex,India,East Coast India,Low,High,2.17,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-10,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.38,Dry season; minimal tropical cyclone risk.
+2022-10,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.75,Dry season; minimal tropical cyclone risk.
+2022-10,Gladstone,Australia,Australia East Coast,Low,Low,0.6,Dry season; minimal tropical cyclone risk.
+2022-10,Port Hedland,Australia,Australia West Coast,Low,Low,0.3,Dry season; minimal tropical cyclone risk.
+2022-10,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.35,Winter–spring; low cyclone risk.
+2022-10,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.63,Winter–spring; low cyclone risk.
+2022-10,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.01,Rainy season (Oct–Apr); moderate weather disruption risk.
+2022-10,Baltimore / Norfolk,USA,USA East Coast,Low,High,2.32,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2022-11,Paradip,India,East Coast India,Low,High,3.1,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-11,Visakhapatnam (Inner),India,East Coast India,Low,High,3.38,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-11,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,High,3.3,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-11,Gangavaram,India,East Coast India,Low,High,2.45,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-11,Dhamra,India,East Coast India,Low,High,3.42,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-11,Gopalpur,India,East Coast India,Low,High,2.47,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-11,Haldia Dock Complex,India,East Coast India,Low,High,2.65,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2022-11,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.75,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-11,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.65,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-11,Gladstone,Australia,Australia East Coast,Low,Medium,1.85,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-11,Port Hedland,Australia,Australia West Coast,Low,Medium,1.66,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-11,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.57,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2022-11,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.09,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2022-11,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,2.74,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2022-11,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.27,Atlantic hurricane season (Jun–Nov); moderate risk.
+2022-12,Paradip,India,East Coast India,Low,Medium,1.37,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-12,Visakhapatnam (Inner),India,East Coast India,Low,Medium,2.46,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-12,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,1.59,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-12,Gangavaram,India,East Coast India,Low,Medium,2.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-12,Dhamra,India,East Coast India,Low,Medium,1.95,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-12,Gopalpur,India,East Coast India,Low,Medium,2.19,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-12,Haldia Dock Complex,India,East Coast India,Low,Medium,1.75,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2022-12,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.58,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-12,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.49,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-12,Gladstone,Australia,Australia East Coast,Low,Medium,1.2,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-12,Port Hedland,Australia,Australia West Coast,Low,Medium,1.72,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2022-12,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.28,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2022-12,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.02,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2022-12,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,3.29,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2022-12,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.39,Outside hurricane season; low tropical cyclone risk.
+2023-01,Paradip,India,East Coast India,Low,Low,0.77,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-01,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.78,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-01,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.76,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-01,Gangavaram,India,East Coast India,Low,Low,0.49,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-01,Dhamra,India,East Coast India,Low,Low,0.31,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-01,Gopalpur,India,East Coast India,Low,Low,0.76,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-01,Haldia Dock Complex,India,East Coast India,Low,Low,0.51,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-01,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,3.93,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-01,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,3.93,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-01,Gladstone,Australia,Australia East Coast,Low,High,3.71,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-01,Port Hedland,Australia,Australia West Coast,Low,High,2.59,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-01,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,2.77,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2023-01,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,3.7,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2023-01,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,2.63,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2023-01,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.38,Outside hurricane season; low tropical cyclone risk.
+2023-02,Paradip,India,East Coast India,Low,Low,0.58,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-02,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.77,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-02,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.65,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-02,Gangavaram,India,East Coast India,Low,Low,0.59,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-02,Dhamra,India,East Coast India,Low,Low,0.35,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-02,Gopalpur,India,East Coast India,Low,Low,0.61,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-02,Haldia Dock Complex,India,East Coast India,Low,Low,0.8,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-02,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,2.28,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-02,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,3.04,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-02,Gladstone,Australia,Australia East Coast,Low,High,3.75,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-02,Port Hedland,Australia,Australia West Coast,Low,High,3.48,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-02,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,3.39,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2023-02,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,3.4,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2023-02,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,2.72,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2023-02,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.45,Outside hurricane season; low tropical cyclone risk.
+2023-03,Paradip,India,East Coast India,Low,Low,0.7,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-03,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.71,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-03,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.73,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-03,Gangavaram,India,East Coast India,Low,Low,0.76,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-03,Dhamra,India,East Coast India,Low,Low,0.56,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-03,Gopalpur,India,East Coast India,Low,Low,0.55,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-03,Haldia Dock Complex,India,East Coast India,Low,Low,0.7,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-03,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,3.3,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-03,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,3.4,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-03,Gladstone,Australia,Australia East Coast,Low,High,3.59,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-03,Port Hedland,Australia,Australia West Coast,Low,High,3.78,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2023-03,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,2.68,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2023-03,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,2.75,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2023-03,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.09,Rainy season (Oct–Apr); moderate weather disruption risk.
+2023-03,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.59,Outside hurricane season; low tropical cyclone risk.
+2023-04,Paradip,India,East Coast India,Low,Medium,1.05,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-04,Visakhapatnam (Inner),India,East Coast India,Low,Medium,1.7,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-04,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,1.81,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-04,Gangavaram,India,East Coast India,Low,Medium,1.43,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-04,Dhamra,India,East Coast India,Low,Medium,1.89,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-04,Gopalpur,India,East Coast India,Low,Medium,1.05,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-04,Haldia Dock Complex,India,East Coast India,Low,Medium,1.06,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-04,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.82,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-04,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.36,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-04,Gladstone,Australia,Australia East Coast,Low,Medium,1.13,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-04,Port Hedland,Australia,Australia West Coast,Low,Medium,1.52,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-04,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.77,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2023-04,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.22,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2023-04,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.62,Rainy season (Oct–Apr); moderate weather disruption risk.
+2023-04,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.34,Outside hurricane season; low tropical cyclone risk.
+2023-05,Paradip,India,East Coast India,Low,Medium,1.08,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-05,Visakhapatnam (Inner),India,East Coast India,Low,Medium,1.8,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-05,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,1.81,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-05,Gangavaram,India,East Coast India,Low,Medium,1.96,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-05,Dhamra,India,East Coast India,Low,Medium,2.09,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-05,Gopalpur,India,East Coast India,Low,Medium,2.46,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-05,Haldia Dock Complex,India,East Coast India,Low,Medium,1.77,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-05,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.46,Dry season; minimal tropical cyclone risk.
+2023-05,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.7,Dry season; minimal tropical cyclone risk.
+2023-05,Gladstone,Australia,Australia East Coast,Low,Low,0.44,Dry season; minimal tropical cyclone risk.
+2023-05,Port Hedland,Australia,Australia West Coast,Low,Low,0.52,Dry season; minimal tropical cyclone risk.
+2023-05,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.34,Winter–spring; low cyclone risk.
+2023-05,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.31,Winter–spring; low cyclone risk.
+2023-05,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.78,Dry season (Jun–Sep); lower weather risk.
+2023-05,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.72,Outside hurricane season; low tropical cyclone risk.
+2023-06,Paradip,India,East Coast India,High,Low,1.7,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-06,Visakhapatnam (Inner),India,East Coast India,High,Low,1.41,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-06,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.17,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-06,Gangavaram,India,East Coast India,High,Low,1.16,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-06,Dhamra,India,East Coast India,High,Low,1.25,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-06,Gopalpur,India,East Coast India,High,Low,1.55,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-06,Haldia Dock Complex,India,East Coast India,High,Low,1.71,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-06,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.63,Dry season; minimal tropical cyclone risk.
+2023-06,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.44,Dry season; minimal tropical cyclone risk.
+2023-06,Gladstone,Australia,Australia East Coast,Low,Low,0.78,Dry season; minimal tropical cyclone risk.
+2023-06,Port Hedland,Australia,Australia West Coast,Low,Low,0.67,Dry season; minimal tropical cyclone risk.
+2023-06,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.58,Winter–spring; low cyclone risk.
+2023-06,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.61,Winter–spring; low cyclone risk.
+2023-06,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.51,Dry season (Jun–Sep); lower weather risk.
+2023-06,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.25,Atlantic hurricane season (Jun–Nov); moderate risk.
+2023-07,Paradip,India,East Coast India,High,Low,1.36,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-07,Visakhapatnam (Inner),India,East Coast India,High,Low,1.76,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-07,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.01,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-07,Gangavaram,India,East Coast India,High,Low,1.12,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-07,Dhamra,India,East Coast India,High,Low,1.05,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-07,Gopalpur,India,East Coast India,High,Low,1.04,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-07,Haldia Dock Complex,India,East Coast India,High,Low,1.86,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-07,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.65,Dry season; minimal tropical cyclone risk.
+2023-07,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.54,Dry season; minimal tropical cyclone risk.
+2023-07,Gladstone,Australia,Australia East Coast,Low,Low,0.35,Dry season; minimal tropical cyclone risk.
+2023-07,Port Hedland,Australia,Australia West Coast,Low,Low,0.55,Dry season; minimal tropical cyclone risk.
+2023-07,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.54,Winter–spring; low cyclone risk.
+2023-07,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.39,Winter–spring; low cyclone risk.
+2023-07,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.52,Dry season (Jun–Sep); lower weather risk.
+2023-07,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.4,Atlantic hurricane season (Jun–Nov); moderate risk.
+2023-08,Paradip,India,East Coast India,High,Low,1.62,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-08,Visakhapatnam (Inner),India,East Coast India,High,Low,1.64,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-08,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.05,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-08,Gangavaram,India,East Coast India,High,Low,1.37,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-08,Dhamra,India,East Coast India,High,Low,1.63,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-08,Gopalpur,India,East Coast India,High,Low,1.5,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-08,Haldia Dock Complex,India,East Coast India,High,Low,1.86,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-08,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.63,Dry season; minimal tropical cyclone risk.
+2023-08,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.38,Dry season; minimal tropical cyclone risk.
+2023-08,Gladstone,Australia,Australia East Coast,Low,Low,0.34,Dry season; minimal tropical cyclone risk.
+2023-08,Port Hedland,Australia,Australia West Coast,Low,Low,0.62,Dry season; minimal tropical cyclone risk.
+2023-08,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.31,Winter–spring; low cyclone risk.
+2023-08,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.59,Winter–spring; low cyclone risk.
+2023-08,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.77,Dry season (Jun–Sep); lower weather risk.
+2023-08,Baltimore / Norfolk,USA,USA East Coast,Low,High,3.15,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2023-09,Paradip,India,East Coast India,High,Low,1.39,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-09,Visakhapatnam (Inner),India,East Coast India,High,Low,1.64,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-09,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.46,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-09,Gangavaram,India,East Coast India,High,Low,1.55,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-09,Dhamra,India,East Coast India,High,Low,1.94,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-09,Gopalpur,India,East Coast India,High,Low,1.39,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-09,Haldia Dock Complex,India,East Coast India,High,Low,1.96,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2023-09,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.75,Dry season; minimal tropical cyclone risk.
+2023-09,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.4,Dry season; minimal tropical cyclone risk.
+2023-09,Gladstone,Australia,Australia East Coast,Low,Low,0.33,Dry season; minimal tropical cyclone risk.
+2023-09,Port Hedland,Australia,Australia West Coast,Low,Low,0.35,Dry season; minimal tropical cyclone risk.
+2023-09,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.31,Winter–spring; low cyclone risk.
+2023-09,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.35,Winter–spring; low cyclone risk.
+2023-09,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.64,Dry season (Jun–Sep); lower weather risk.
+2023-09,Baltimore / Norfolk,USA,USA East Coast,Low,High,2.14,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2023-10,Paradip,India,East Coast India,Low,High,2.64,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-10,Visakhapatnam (Inner),India,East Coast India,Low,High,3.69,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-10,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,High,2.05,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-10,Gangavaram,India,East Coast India,Low,High,3.63,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-10,Dhamra,India,East Coast India,Low,High,2.56,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-10,Gopalpur,India,East Coast India,Low,High,2.24,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-10,Haldia Dock Complex,India,East Coast India,Low,High,3.39,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-10,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.61,Dry season; minimal tropical cyclone risk.
+2023-10,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.74,Dry season; minimal tropical cyclone risk.
+2023-10,Gladstone,Australia,Australia East Coast,Low,Low,0.67,Dry season; minimal tropical cyclone risk.
+2023-10,Port Hedland,Australia,Australia West Coast,Low,Low,0.7,Dry season; minimal tropical cyclone risk.
+2023-10,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.44,Winter–spring; low cyclone risk.
+2023-10,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.39,Winter–spring; low cyclone risk.
+2023-10,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.75,Rainy season (Oct–Apr); moderate weather disruption risk.
+2023-10,Baltimore / Norfolk,USA,USA East Coast,Low,High,3.61,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2023-11,Paradip,India,East Coast India,Low,High,3.98,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-11,Visakhapatnam (Inner),India,East Coast India,Low,High,2.83,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-11,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,High,2.74,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-11,Gangavaram,India,East Coast India,Low,High,3.55,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-11,Dhamra,India,East Coast India,Low,High,2.68,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-11,Gopalpur,India,East Coast India,Low,High,3.86,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-11,Haldia Dock Complex,India,East Coast India,Low,High,3.72,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2023-11,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.43,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-11,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.75,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-11,Gladstone,Australia,Australia East Coast,Low,Medium,1.75,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-11,Port Hedland,Australia,Australia West Coast,Low,Medium,1.1,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-11,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.9,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2023-11,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.51,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2023-11,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,3.65,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2023-11,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.32,Atlantic hurricane season (Jun–Nov); moderate risk.
+2023-12,Paradip,India,East Coast India,Low,Medium,2.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-12,Visakhapatnam (Inner),India,East Coast India,Low,Medium,1.58,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-12,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,1.02,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-12,Gangavaram,India,East Coast India,Low,Medium,2.36,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-12,Dhamra,India,East Coast India,Low,Medium,1.14,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-12,Gopalpur,India,East Coast India,Low,Medium,1.48,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-12,Haldia Dock Complex,India,East Coast India,Low,Medium,2.43,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2023-12,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.95,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-12,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.57,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-12,Gladstone,Australia,Australia East Coast,Low,Medium,1.63,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-12,Port Hedland,Australia,Australia West Coast,Low,Medium,1.45,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2023-12,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.29,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2023-12,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.33,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2023-12,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,3.35,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2023-12,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.68,Outside hurricane season; low tropical cyclone risk.
+2024-01,Paradip,India,East Coast India,Low,Low,0.7,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-01,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.69,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-01,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.35,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-01,Gangavaram,India,East Coast India,Low,Low,0.55,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-01,Dhamra,India,East Coast India,Low,Low,0.33,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-01,Gopalpur,India,East Coast India,Low,Low,0.57,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-01,Haldia Dock Complex,India,East Coast India,Low,Low,0.52,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-01,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,3.78,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-01,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,2.7,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-01,Gladstone,Australia,Australia East Coast,Low,High,2.23,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-01,Port Hedland,Australia,Australia West Coast,Low,High,2.29,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-01,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,3.52,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2024-01,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,3.24,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2024-01,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,2.2,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2024-01,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.34,Outside hurricane season; low tropical cyclone risk.
+2024-02,Paradip,India,East Coast India,Low,Low,0.65,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-02,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-02,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.71,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-02,Gangavaram,India,East Coast India,Low,Low,0.65,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-02,Dhamra,India,East Coast India,Low,Low,0.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-02,Gopalpur,India,East Coast India,Low,Low,0.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-02,Haldia Dock Complex,India,East Coast India,Low,Low,0.79,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-02,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,2.75,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-02,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,2.74,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-02,Gladstone,Australia,Australia East Coast,Low,High,3.63,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-02,Port Hedland,Australia,Australia West Coast,Low,High,3.89,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-02,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,3.97,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2024-02,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,3.51,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2024-02,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,2.75,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2024-02,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.34,Outside hurricane season; low tropical cyclone risk.
+2024-03,Paradip,India,East Coast India,Low,Low,0.69,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-03,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.58,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-03,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.51,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-03,Gangavaram,India,East Coast India,Low,Low,0.75,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-03,Dhamra,India,East Coast India,Low,Low,0.36,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-03,Gopalpur,India,East Coast India,Low,Low,0.55,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-03,Haldia Dock Complex,India,East Coast India,Low,Low,0.31,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-03,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,2.94,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-03,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,2.11,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-03,Gladstone,Australia,Australia East Coast,Low,High,2.24,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-03,Port Hedland,Australia,Australia West Coast,Low,High,2.24,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2024-03,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,3.3,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2024-03,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,3.49,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2024-03,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.58,Rainy season (Oct–Apr); moderate weather disruption risk.
+2024-03,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.78,Outside hurricane season; low tropical cyclone risk.
+2024-04,Paradip,India,East Coast India,Low,Medium,1.56,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-04,Visakhapatnam (Inner),India,East Coast India,Low,Medium,1.43,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-04,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,2.3,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-04,Gangavaram,India,East Coast India,Low,Medium,1.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-04,Dhamra,India,East Coast India,Low,Medium,2.44,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-04,Gopalpur,India,East Coast India,Low,Medium,1.02,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-04,Haldia Dock Complex,India,East Coast India,Low,Medium,2.45,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-04,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.04,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-04,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.89,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-04,Gladstone,Australia,Australia East Coast,Low,Medium,1.53,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-04,Port Hedland,Australia,Australia West Coast,Low,Medium,1.99,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-04,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.07,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2024-04,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.55,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2024-04,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.97,Rainy season (Oct–Apr); moderate weather disruption risk.
+2024-04,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.56,Outside hurricane season; low tropical cyclone risk.
+2024-05,Paradip,India,East Coast India,Low,Medium,1.94,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-05,Visakhapatnam (Inner),India,East Coast India,Low,Medium,2.04,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-05,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,1.68,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-05,Gangavaram,India,East Coast India,Low,Medium,1.94,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-05,Dhamra,India,East Coast India,Low,Medium,1.88,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-05,Gopalpur,India,East Coast India,Low,Medium,2.35,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-05,Haldia Dock Complex,India,East Coast India,Low,Medium,1.07,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-05,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.44,Dry season; minimal tropical cyclone risk.
+2024-05,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.78,Dry season; minimal tropical cyclone risk.
+2024-05,Gladstone,Australia,Australia East Coast,Low,Low,0.75,Dry season; minimal tropical cyclone risk.
+2024-05,Port Hedland,Australia,Australia West Coast,Low,Low,0.53,Dry season; minimal tropical cyclone risk.
+2024-05,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.61,Winter–spring; low cyclone risk.
+2024-05,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.44,Winter–spring; low cyclone risk.
+2024-05,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.39,Dry season (Jun–Sep); lower weather risk.
+2024-05,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.53,Outside hurricane season; low tropical cyclone risk.
+2024-06,Paradip,India,East Coast India,High,Low,1.35,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-06,Visakhapatnam (Inner),India,East Coast India,High,Low,1.58,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-06,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.08,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-06,Gangavaram,India,East Coast India,High,Low,1.97,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-06,Dhamra,India,East Coast India,High,Low,1.99,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-06,Gopalpur,India,East Coast India,High,Low,1.7,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-06,Haldia Dock Complex,India,East Coast India,High,Low,1.54,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-06,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.45,Dry season; minimal tropical cyclone risk.
+2024-06,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.71,Dry season; minimal tropical cyclone risk.
+2024-06,Gladstone,Australia,Australia East Coast,Low,Low,0.64,Dry season; minimal tropical cyclone risk.
+2024-06,Port Hedland,Australia,Australia West Coast,Low,Low,0.38,Dry season; minimal tropical cyclone risk.
+2024-06,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.76,Winter–spring; low cyclone risk.
+2024-06,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.71,Winter–spring; low cyclone risk.
+2024-06,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.77,Dry season (Jun–Sep); lower weather risk.
+2024-06,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.73,Atlantic hurricane season (Jun–Nov); moderate risk.
+2024-07,Paradip,India,East Coast India,High,Low,1.61,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-07,Visakhapatnam (Inner),India,East Coast India,High,Low,1.42,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-07,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.93,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-07,Gangavaram,India,East Coast India,High,Low,1.87,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-07,Dhamra,India,East Coast India,High,Low,1.05,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-07,Gopalpur,India,East Coast India,High,Low,1.03,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-07,Haldia Dock Complex,India,East Coast India,High,Low,1.38,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-07,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.71,Dry season; minimal tropical cyclone risk.
+2024-07,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.79,Dry season; minimal tropical cyclone risk.
+2024-07,Gladstone,Australia,Australia East Coast,Low,Low,0.38,Dry season; minimal tropical cyclone risk.
+2024-07,Port Hedland,Australia,Australia West Coast,Low,Low,0.6,Dry season; minimal tropical cyclone risk.
+2024-07,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.49,Winter–spring; low cyclone risk.
+2024-07,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.78,Winter–spring; low cyclone risk.
+2024-07,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.72,Dry season (Jun–Sep); lower weather risk.
+2024-07,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.84,Atlantic hurricane season (Jun–Nov); moderate risk.
+2024-08,Paradip,India,East Coast India,High,Low,1.47,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-08,Visakhapatnam (Inner),India,East Coast India,High,Low,1.41,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-08,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.27,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-08,Gangavaram,India,East Coast India,High,Low,1.06,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-08,Dhamra,India,East Coast India,High,Low,1.86,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-08,Gopalpur,India,East Coast India,High,Low,1.81,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-08,Haldia Dock Complex,India,East Coast India,High,Low,2.0,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-08,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.8,Dry season; minimal tropical cyclone risk.
+2024-08,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.58,Dry season; minimal tropical cyclone risk.
+2024-08,Gladstone,Australia,Australia East Coast,Low,Low,0.68,Dry season; minimal tropical cyclone risk.
+2024-08,Port Hedland,Australia,Australia West Coast,Low,Low,0.77,Dry season; minimal tropical cyclone risk.
+2024-08,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.72,Winter–spring; low cyclone risk.
+2024-08,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.42,Winter–spring; low cyclone risk.
+2024-08,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.53,Dry season (Jun–Sep); lower weather risk.
+2024-08,Baltimore / Norfolk,USA,USA East Coast,Low,High,2.26,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2024-09,Paradip,India,East Coast India,High,Low,1.95,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-09,Visakhapatnam (Inner),India,East Coast India,High,Low,1.61,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-09,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.23,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-09,Gangavaram,India,East Coast India,High,Low,1.67,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-09,Dhamra,India,East Coast India,High,Low,1.62,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-09,Gopalpur,India,East Coast India,High,Low,1.36,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-09,Haldia Dock Complex,India,East Coast India,High,Low,1.11,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2024-09,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.64,Dry season; minimal tropical cyclone risk.
+2024-09,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.56,Dry season; minimal tropical cyclone risk.
+2024-09,Gladstone,Australia,Australia East Coast,Low,Low,0.69,Dry season; minimal tropical cyclone risk.
+2024-09,Port Hedland,Australia,Australia West Coast,Low,Low,0.56,Dry season; minimal tropical cyclone risk.
+2024-09,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.73,Winter–spring; low cyclone risk.
+2024-09,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.58,Winter–spring; low cyclone risk.
+2024-09,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.58,Dry season (Jun–Sep); lower weather risk.
+2024-09,Baltimore / Norfolk,USA,USA East Coast,Low,High,3.75,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2024-10,Paradip,India,East Coast India,Low,High,2.81,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-10,Visakhapatnam (Inner),India,East Coast India,Low,High,2.27,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-10,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,High,2.06,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-10,Gangavaram,India,East Coast India,Low,High,3.51,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-10,Dhamra,India,East Coast India,Low,High,3.24,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-10,Gopalpur,India,East Coast India,Low,High,3.41,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-10,Haldia Dock Complex,India,East Coast India,Low,High,2.43,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-10,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.37,Dry season; minimal tropical cyclone risk.
+2024-10,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.31,Dry season; minimal tropical cyclone risk.
+2024-10,Gladstone,Australia,Australia East Coast,Low,Low,0.48,Dry season; minimal tropical cyclone risk.
+2024-10,Port Hedland,Australia,Australia West Coast,Low,Low,0.59,Dry season; minimal tropical cyclone risk.
+2024-10,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.5,Winter–spring; low cyclone risk.
+2024-10,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.52,Winter–spring; low cyclone risk.
+2024-10,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.9,Rainy season (Oct–Apr); moderate weather disruption risk.
+2024-10,Baltimore / Norfolk,USA,USA East Coast,Low,High,2.7,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2024-11,Paradip,India,East Coast India,Low,High,3.03,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-11,Visakhapatnam (Inner),India,East Coast India,Low,High,3.57,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-11,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,High,2.79,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-11,Gangavaram,India,East Coast India,Low,High,3.24,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-11,Dhamra,India,East Coast India,Low,High,3.72,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-11,Gopalpur,India,East Coast India,Low,High,3.9,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-11,Haldia Dock Complex,India,East Coast India,Low,High,2.29,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2024-11,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.93,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-11,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.49,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-11,Gladstone,Australia,Australia East Coast,Low,Medium,1.26,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-11,Port Hedland,Australia,Australia West Coast,Low,Medium,1.46,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-11,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.98,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2024-11,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.49,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2024-11,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,2.66,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2024-11,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.63,Atlantic hurricane season (Jun–Nov); moderate risk.
+2024-12,Paradip,India,East Coast India,Low,Medium,1.36,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-12,Visakhapatnam (Inner),India,East Coast India,Low,Medium,1.11,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-12,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,1.19,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-12,Gangavaram,India,East Coast India,Low,Medium,1.19,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-12,Dhamra,India,East Coast India,Low,Medium,1.23,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-12,Gopalpur,India,East Coast India,Low,Medium,1.21,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-12,Haldia Dock Complex,India,East Coast India,Low,Medium,1.96,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2024-12,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.18,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-12,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.35,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-12,Gladstone,Australia,Australia East Coast,Low,Medium,1.9,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-12,Port Hedland,Australia,Australia West Coast,Low,Medium,1.47,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2024-12,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.67,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2024-12,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.17,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2024-12,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,2.38,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2024-12,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.32,Outside hurricane season; low tropical cyclone risk.
+2025-01,Paradip,India,East Coast India,Low,Low,0.38,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-01,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.44,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-01,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.39,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-01,Gangavaram,India,East Coast India,Low,Low,0.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-01,Dhamra,India,East Coast India,Low,Low,0.36,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-01,Gopalpur,India,East Coast India,Low,Low,0.53,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-01,Haldia Dock Complex,India,East Coast India,Low,Low,0.4,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-01,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,2.73,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-01,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,3.01,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-01,Gladstone,Australia,Australia East Coast,Low,High,3.38,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-01,Port Hedland,Australia,Australia West Coast,Low,High,2.08,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-01,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,3.6,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2025-01,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,3.26,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2025-01,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,2.16,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2025-01,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.74,Outside hurricane season; low tropical cyclone risk.
+2025-02,Paradip,India,East Coast India,Low,Low,0.76,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-02,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.33,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-02,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.44,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-02,Gangavaram,India,East Coast India,Low,Low,0.7,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-02,Dhamra,India,East Coast India,Low,Low,0.67,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-02,Gopalpur,India,East Coast India,Low,Low,0.39,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-02,Haldia Dock Complex,India,East Coast India,Low,Low,0.4,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-02,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,2.74,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-02,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,2.97,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-02,Gladstone,Australia,Australia East Coast,Low,High,3.24,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-02,Port Hedland,Australia,Australia West Coast,Low,High,2.74,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-02,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,2.93,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2025-02,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,3.49,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2025-02,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,2.07,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2025-02,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.43,Outside hurricane season; low tropical cyclone risk.
+2025-03,Paradip,India,East Coast India,Low,Low,0.66,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-03,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.75,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-03,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.56,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-03,Gangavaram,India,East Coast India,Low,Low,0.57,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-03,Dhamra,India,East Coast India,Low,Low,0.35,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-03,Gopalpur,India,East Coast India,Low,Low,0.52,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-03,Haldia Dock Complex,India,East Coast India,Low,Low,0.57,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-03,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,2.48,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-03,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,2.54,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-03,Gladstone,Australia,Australia East Coast,Low,High,2.75,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-03,Port Hedland,Australia,Australia West Coast,Low,High,2.04,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2025-03,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,2.64,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2025-03,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,2.42,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2025-03,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.33,Rainy season (Oct–Apr); moderate weather disruption risk.
+2025-03,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.36,Outside hurricane season; low tropical cyclone risk.
+2025-04,Paradip,India,East Coast India,Low,Medium,2.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-04,Visakhapatnam (Inner),India,East Coast India,Low,Medium,1.89,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-04,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,2.02,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-04,Gangavaram,India,East Coast India,Low,Medium,2.18,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-04,Dhamra,India,East Coast India,Low,Medium,1.75,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-04,Gopalpur,India,East Coast India,Low,Medium,1.13,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-04,Haldia Dock Complex,India,East Coast India,Low,Medium,1.81,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-04,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.59,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-04,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.75,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-04,Gladstone,Australia,Australia East Coast,Low,Medium,1.43,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-04,Port Hedland,Australia,Australia West Coast,Low,Medium,1.13,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-04,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.28,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2025-04,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.36,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2025-04,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.65,Rainy season (Oct–Apr); moderate weather disruption risk.
+2025-04,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.59,Outside hurricane season; low tropical cyclone risk.
+2025-05,Paradip,India,East Coast India,Low,Medium,1.53,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-05,Visakhapatnam (Inner),India,East Coast India,Low,Medium,2.48,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-05,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,1.91,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-05,Gangavaram,India,East Coast India,Low,Medium,1.36,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-05,Dhamra,India,East Coast India,Low,Medium,1.15,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-05,Gopalpur,India,East Coast India,Low,Medium,1.23,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-05,Haldia Dock Complex,India,East Coast India,Low,Medium,1.37,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-05,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.38,Dry season; minimal tropical cyclone risk.
+2025-05,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.39,Dry season; minimal tropical cyclone risk.
+2025-05,Gladstone,Australia,Australia East Coast,Low,Low,0.44,Dry season; minimal tropical cyclone risk.
+2025-05,Port Hedland,Australia,Australia West Coast,Low,Low,0.39,Dry season; minimal tropical cyclone risk.
+2025-05,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.75,Winter–spring; low cyclone risk.
+2025-05,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.34,Winter–spring; low cyclone risk.
+2025-05,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.56,Dry season (Jun–Sep); lower weather risk.
+2025-05,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.51,Outside hurricane season; low tropical cyclone risk.
+2025-06,Paradip,India,East Coast India,High,Low,1.98,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-06,Visakhapatnam (Inner),India,East Coast India,High,Low,1.11,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-06,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.4,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-06,Gangavaram,India,East Coast India,High,Low,1.97,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-06,Dhamra,India,East Coast India,High,Low,1.87,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-06,Gopalpur,India,East Coast India,High,Low,1.82,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-06,Haldia Dock Complex,India,East Coast India,High,Low,1.26,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-06,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.39,Dry season; minimal tropical cyclone risk.
+2025-06,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.63,Dry season; minimal tropical cyclone risk.
+2025-06,Gladstone,Australia,Australia East Coast,Low,Low,0.76,Dry season; minimal tropical cyclone risk.
+2025-06,Port Hedland,Australia,Australia West Coast,Low,Low,0.58,Dry season; minimal tropical cyclone risk.
+2025-06,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.59,Winter–spring; low cyclone risk.
+2025-06,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.44,Winter–spring; low cyclone risk.
+2025-06,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.68,Dry season (Jun–Sep); lower weather risk.
+2025-06,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.19,Atlantic hurricane season (Jun–Nov); moderate risk.
+2025-07,Paradip,India,East Coast India,High,Low,1.32,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-07,Visakhapatnam (Inner),India,East Coast India,High,Low,1.43,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-07,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.51,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-07,Gangavaram,India,East Coast India,High,Low,1.24,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-07,Dhamra,India,East Coast India,High,Low,1.11,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-07,Gopalpur,India,East Coast India,High,Low,1.61,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-07,Haldia Dock Complex,India,East Coast India,High,Low,1.29,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-07,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.59,Dry season; minimal tropical cyclone risk.
+2025-07,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.38,Dry season; minimal tropical cyclone risk.
+2025-07,Gladstone,Australia,Australia East Coast,Low,Low,0.54,Dry season; minimal tropical cyclone risk.
+2025-07,Port Hedland,Australia,Australia West Coast,Low,Low,0.57,Dry season; minimal tropical cyclone risk.
+2025-07,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.33,Winter–spring; low cyclone risk.
+2025-07,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.47,Winter–spring; low cyclone risk.
+2025-07,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.37,Dry season (Jun–Sep); lower weather risk.
+2025-07,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.06,Atlantic hurricane season (Jun–Nov); moderate risk.
+2025-08,Paradip,India,East Coast India,High,Low,1.99,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-08,Visakhapatnam (Inner),India,East Coast India,High,Low,1.32,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-08,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.81,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-08,Gangavaram,India,East Coast India,High,Low,1.25,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-08,Dhamra,India,East Coast India,High,Low,1.68,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-08,Gopalpur,India,East Coast India,High,Low,1.76,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-08,Haldia Dock Complex,India,East Coast India,High,Low,1.6,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-08,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.54,Dry season; minimal tropical cyclone risk.
+2025-08,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.51,Dry season; minimal tropical cyclone risk.
+2025-08,Gladstone,Australia,Australia East Coast,Low,Low,0.47,Dry season; minimal tropical cyclone risk.
+2025-08,Port Hedland,Australia,Australia West Coast,Low,Low,0.76,Dry season; minimal tropical cyclone risk.
+2025-08,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.72,Winter–spring; low cyclone risk.
+2025-08,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.78,Winter–spring; low cyclone risk.
+2025-08,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.36,Dry season (Jun–Sep); lower weather risk.
+2025-08,Baltimore / Norfolk,USA,USA East Coast,Low,High,3.46,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2025-09,Paradip,India,East Coast India,High,Low,1.94,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-09,Visakhapatnam (Inner),India,East Coast India,High,Low,1.18,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-09,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.07,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-09,Gangavaram,India,East Coast India,High,Low,1.74,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-09,Dhamra,India,East Coast India,High,Low,1.57,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-09,Gopalpur,India,East Coast India,High,Low,1.84,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-09,Haldia Dock Complex,India,East Coast India,High,Low,1.14,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2025-09,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.7,Dry season; minimal tropical cyclone risk.
+2025-09,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.4,Dry season; minimal tropical cyclone risk.
+2025-09,Gladstone,Australia,Australia East Coast,Low,Low,0.38,Dry season; minimal tropical cyclone risk.
+2025-09,Port Hedland,Australia,Australia West Coast,Low,Low,0.38,Dry season; minimal tropical cyclone risk.
+2025-09,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.71,Winter–spring; low cyclone risk.
+2025-09,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.63,Winter–spring; low cyclone risk.
+2025-09,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.56,Dry season (Jun–Sep); lower weather risk.
+2025-09,Baltimore / Norfolk,USA,USA East Coast,Low,High,2.72,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2025-10,Paradip,India,East Coast India,Low,High,3.75,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-10,Visakhapatnam (Inner),India,East Coast India,Low,High,2.78,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-10,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,High,3.63,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-10,Gangavaram,India,East Coast India,Low,High,2.88,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-10,Dhamra,India,East Coast India,Low,High,2.75,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-10,Gopalpur,India,East Coast India,Low,High,2.93,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-10,Haldia Dock Complex,India,East Coast India,Low,High,2.6,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-10,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.67,Dry season; minimal tropical cyclone risk.
+2025-10,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.55,Dry season; minimal tropical cyclone risk.
+2025-10,Gladstone,Australia,Australia East Coast,Low,Low,0.42,Dry season; minimal tropical cyclone risk.
+2025-10,Port Hedland,Australia,Australia West Coast,Low,Low,0.75,Dry season; minimal tropical cyclone risk.
+2025-10,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.49,Winter–spring; low cyclone risk.
+2025-10,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.57,Winter–spring; low cyclone risk.
+2025-10,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.91,Rainy season (Oct–Apr); moderate weather disruption risk.
+2025-10,Baltimore / Norfolk,USA,USA East Coast,Low,High,3.25,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2025-11,Paradip,India,East Coast India,Low,High,2.23,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-11,Visakhapatnam (Inner),India,East Coast India,Low,High,3.88,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-11,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,High,3.26,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-11,Gangavaram,India,East Coast India,Low,High,2.67,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-11,Dhamra,India,East Coast India,Low,High,2.28,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-11,Gopalpur,India,East Coast India,Low,High,3.59,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-11,Haldia Dock Complex,India,East Coast India,Low,High,3.24,Post-monsoon cyclone peak (Oct–Nov); historical landfalls on Odisha–Andhra coasts.
+2025-11,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.53,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-11,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.89,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-11,Gladstone,Australia,Australia East Coast,Low,Medium,1.79,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-11,Port Hedland,Australia,Australia West Coast,Low,Medium,1.15,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-11,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.31,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2025-11,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.25,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2025-11,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,3.49,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2025-11,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.03,Atlantic hurricane season (Jun–Nov); moderate risk.
+2025-12,Paradip,India,East Coast India,Low,Medium,1.85,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-12,Visakhapatnam (Inner),India,East Coast India,Low,Medium,2.14,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-12,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,2.32,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-12,Gangavaram,India,East Coast India,Low,Medium,1.51,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-12,Dhamra,India,East Coast India,Low,Medium,2.23,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-12,Gopalpur,India,East Coast India,Low,Medium,1.17,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-12,Haldia Dock Complex,India,East Coast India,Low,Medium,2.27,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2025-12,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.13,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-12,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.4,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-12,Gladstone,Australia,Australia East Coast,Low,Medium,1.8,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-12,Port Hedland,Australia,Australia West Coast,Low,Medium,1.15,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2025-12,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.23,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2025-12,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.72,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2025-12,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,3.44,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2025-12,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.62,Outside hurricane season; low tropical cyclone risk.
+2026-01,Paradip,India,East Coast India,Low,Low,0.65,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-01,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.57,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-01,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.43,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-01,Gangavaram,India,East Coast India,Low,Low,0.47,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-01,Dhamra,India,East Coast India,Low,Low,0.39,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-01,Gopalpur,India,East Coast India,Low,Low,0.75,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-01,Haldia Dock Complex,India,East Coast India,Low,Low,0.59,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-01,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,2.8,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-01,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,2.92,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-01,Gladstone,Australia,Australia East Coast,Low,High,3.89,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-01,Port Hedland,Australia,Australia West Coast,Low,High,2.31,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-01,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,3.17,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2026-01,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,3.01,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2026-01,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,3.22,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2026-01,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.31,Outside hurricane season; low tropical cyclone risk.
+2026-02,Paradip,India,East Coast India,Low,Low,0.74,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-02,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.77,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-02,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.58,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-02,Gangavaram,India,East Coast India,Low,Low,0.65,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-02,Dhamra,India,East Coast India,Low,Low,0.76,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-02,Gopalpur,India,East Coast India,Low,Low,0.65,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-02,Haldia Dock Complex,India,East Coast India,Low,Low,0.38,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-02,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,3.15,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-02,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,3.21,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-02,Gladstone,Australia,Australia East Coast,Low,High,2.85,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-02,Port Hedland,Australia,Australia West Coast,Low,High,3.47,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-02,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,3.87,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2026-02,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,3.85,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2026-02,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),High,Low,2.9,Peak rainy season (Nov–Feb); documented coal loading delays at Taboneo.
+2026-02,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.36,Outside hurricane season; low tropical cyclone risk.
+2026-03,Paradip,India,East Coast India,Low,Low,0.79,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-03,Visakhapatnam (Inner),India,East Coast India,Low,Low,0.72,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-03,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Low,0.36,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-03,Gangavaram,India,East Coast India,Low,Low,0.76,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-03,Dhamra,India,East Coast India,Low,Low,0.73,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-03,Gopalpur,India,East Coast India,Low,Low,0.56,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-03,Haldia Dock Complex,India,East Coast India,Low,Low,0.6,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-03,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,High,2.8,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-03,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,High,2.11,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-03,Gladstone,Australia,Australia East Coast,Low,High,2.67,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-03,Port Hedland,Australia,Australia West Coast,Low,High,3.61,Peak Australian cyclone season (Jan–Mar); Pilbara/East Coast impacts possible.
+2026-03,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,High,2.01,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2026-03,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,High,2.67,SW Indian Ocean cyclone peak (Jan–Mar); Maputo/Richards Bay exposure.
+2026-03,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.4,Rainy season (Oct–Apr); moderate weather disruption risk.
+2026-03,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.57,Outside hurricane season; low tropical cyclone risk.
+2026-04,Paradip,India,East Coast India,Low,Medium,2.38,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-04,Visakhapatnam (Inner),India,East Coast India,Low,Medium,1.52,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-04,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,1.52,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-04,Gangavaram,India,East Coast India,Low,Medium,2.11,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-04,Dhamra,India,East Coast India,Low,Medium,1.68,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-04,Gopalpur,India,East Coast India,Low,Medium,1.34,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-04,Haldia Dock Complex,India,East Coast India,Low,Medium,1.68,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-04,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Medium,1.14,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2026-04,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Medium,1.18,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2026-04,Gladstone,Australia,Australia East Coast,Low,Medium,1.5,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2026-04,Port Hedland,Australia,Australia West Coast,Low,Medium,1.42,Australian cyclone season (Nov–Apr); elevated but not peak risk.
+2026-04,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Medium,1.91,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2026-04,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Medium,1.36,SW Indian Ocean cyclone season (Nov–Apr); moderate risk.
+2026-04,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Medium,Low,1.58,Rainy season (Oct–Apr); moderate weather disruption risk.
+2026-04,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.62,Outside hurricane season; low tropical cyclone risk.
+2026-05,Paradip,India,East Coast India,Low,Medium,1.02,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-05,Visakhapatnam (Inner),India,East Coast India,Low,Medium,2.0,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-05,Visakhapatnam (Outer/VGCB),India,East Coast India,Low,Medium,1.27,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-05,Gangavaram,India,East Coast India,Low,Medium,2.44,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-05,Dhamra,India,East Coast India,Low,Medium,1.22,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-05,Gopalpur,India,East Coast India,Low,Medium,1.62,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-05,Haldia Dock Complex,India,East Coast India,Low,Medium,1.13,Lower seasonal risk; occasional pre-monsoon storms (Apr–May).
+2026-05,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.8,Dry season; minimal tropical cyclone risk.
+2026-05,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.55,Dry season; minimal tropical cyclone risk.
+2026-05,Gladstone,Australia,Australia East Coast,Low,Low,0.6,Dry season; minimal tropical cyclone risk.
+2026-05,Port Hedland,Australia,Australia West Coast,Low,Low,0.33,Dry season; minimal tropical cyclone risk.
+2026-05,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.67,Winter–spring; low cyclone risk.
+2026-05,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.4,Winter–spring; low cyclone risk.
+2026-05,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.75,Dry season (Jun–Sep); lower weather risk.
+2026-05,Baltimore / Norfolk,USA,USA East Coast,Low,Low,0.4,Outside hurricane season; low tropical cyclone risk.
+2026-06,Paradip,India,East Coast India,High,Low,1.19,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-06,Visakhapatnam (Inner),India,East Coast India,High,Low,1.04,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-06,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.47,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-06,Gangavaram,India,East Coast India,High,Low,1.56,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-06,Dhamra,India,East Coast India,High,Low,1.07,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-06,Gopalpur,India,East Coast India,High,Low,1.78,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-06,Haldia Dock Complex,India,East Coast India,High,Low,1.45,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-06,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.56,Dry season; minimal tropical cyclone risk.
+2026-06,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.52,Dry season; minimal tropical cyclone risk.
+2026-06,Gladstone,Australia,Australia East Coast,Low,Low,0.5,Dry season; minimal tropical cyclone risk.
+2026-06,Port Hedland,Australia,Australia West Coast,Low,Low,0.58,Dry season; minimal tropical cyclone risk.
+2026-06,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.38,Winter–spring; low cyclone risk.
+2026-06,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.39,Winter–spring; low cyclone risk.
+2026-06,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.73,Dry season (Jun–Sep); lower weather risk.
+2026-06,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.95,Atlantic hurricane season (Jun–Nov); moderate risk.
+2026-07,Paradip,India,East Coast India,High,Low,1.37,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-07,Visakhapatnam (Inner),India,East Coast India,High,Low,1.27,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-07,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.64,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-07,Gangavaram,India,East Coast India,High,Low,1.41,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-07,Dhamra,India,East Coast India,High,Low,1.03,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-07,Gopalpur,India,East Coast India,High,Low,1.16,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-07,Haldia Dock Complex,India,East Coast India,High,Low,1.72,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-07,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.63,Dry season; minimal tropical cyclone risk.
+2026-07,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.31,Dry season; minimal tropical cyclone risk.
+2026-07,Gladstone,Australia,Australia East Coast,Low,Low,0.41,Dry season; minimal tropical cyclone risk.
+2026-07,Port Hedland,Australia,Australia West Coast,Low,Low,0.42,Dry season; minimal tropical cyclone risk.
+2026-07,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.64,Winter–spring; low cyclone risk.
+2026-07,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.31,Winter–spring; low cyclone risk.
+2026-07,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.35,Dry season (Jun–Sep); lower weather risk.
+2026-07,Baltimore / Norfolk,USA,USA East Coast,Low,Medium,1.8,Atlantic hurricane season (Jun–Nov); moderate risk.
+2026-08,Paradip,India,East Coast India,High,Low,1.18,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-08,Visakhapatnam (Inner),India,East Coast India,High,Low,1.65,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-08,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.24,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-08,Gangavaram,India,East Coast India,High,Low,1.1,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-08,Dhamra,India,East Coast India,High,Low,1.24,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-08,Gopalpur,India,East Coast India,High,Low,1.72,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-08,Haldia Dock Complex,India,East Coast India,High,Low,1.86,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-08,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.72,Dry season; minimal tropical cyclone risk.
+2026-08,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.5,Dry season; minimal tropical cyclone risk.
+2026-08,Gladstone,Australia,Australia East Coast,Low,Low,0.63,Dry season; minimal tropical cyclone risk.
+2026-08,Port Hedland,Australia,Australia West Coast,Low,Low,0.4,Dry season; minimal tropical cyclone risk.
+2026-08,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.45,Winter–spring; low cyclone risk.
+2026-08,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.75,Winter–spring; low cyclone risk.
+2026-08,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.31,Dry season (Jun–Sep); lower weather risk.
+2026-08,Baltimore / Norfolk,USA,USA East Coast,Low,High,2.17,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
+2026-09,Paradip,India,East Coast India,High,Low,1.21,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-09,Visakhapatnam (Inner),India,East Coast India,High,Low,1.03,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-09,Visakhapatnam (Outer/VGCB),India,East Coast India,High,Low,1.18,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-09,Gangavaram,India,East Coast India,High,Low,1.58,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-09,Dhamra,India,East Coast India,High,Low,1.42,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-09,Gopalpur,India,East Coast India,High,Low,1.89,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-09,Haldia Dock Complex,India,East Coast India,High,Low,1.82,SW monsoon (Jun–Sep); rain/wind can reduce port productivity.
+2026-09,Hay Point / Dalrymple Bay,Australia,Australia East Coast,Low,Low,0.47,Dry season; minimal tropical cyclone risk.
+2026-09,Newcastle (Kooragang Bay),Australia,Australia East Coast,Low,Low,0.43,Dry season; minimal tropical cyclone risk.
+2026-09,Gladstone,Australia,Australia East Coast,Low,Low,0.49,Dry season; minimal tropical cyclone risk.
+2026-09,Port Hedland,Australia,Australia West Coast,Low,Low,0.6,Dry season; minimal tropical cyclone risk.
+2026-09,Richards Bay Coal Terminal,South Africa,Southern Africa East Coast,Low,Low,0.43,Winter–spring; low cyclone risk.
+2026-09,Maputo (Matola),Mozambique,Southern Africa East Coast,Low,Low,0.61,Winter–spring; low cyclone risk.
+2026-09,Taboneo Anchorage,Indonesia,Indonesia (Kalimantan),Low,Low,0.5,Dry season (Jun–Sep); lower weather risk.
+2026-09,Baltimore / Norfolk,USA,USA East Coast,Low,High,3.1,Atlantic hurricane peak (Aug–Oct); US East Coast exposure.
