@@ -1,4 +1,18 @@
-date,port_name,country,port_type,waiting_days_at_anchorage,waiting_days_at_berth,turn_around_time_days,berth_occupancy_pct,vessels_at_anchorage,source_note
+dataset_1_freight_bdi_daily..csv
+dataset_1_freight_vessel_proxies.csv
+dataset_2_macro_brent_oil_daily.csv
+dataset_2_macro_coal_newcastle_daily.csv
+dataset_2_macro_dxy_usd_index.csv
+dataset_2_macro_iron_ore_daily.csv
+dataset_2_macro_usd_inr_daily.csv
+dataset_3_port_infrastructure_rules.csv
+dataset_4_vessel_specifications.csv
+dataset_5_port_traffic_timeseries.csv
+dataset_5_port_congestion.csv
+dataset_6_weather_risk_flags.csv
+dataset_7_route_distances.csv
+dataset_8_disruption_events.csv
+dataset_9_bunker_fuel_prices.csv
 2026-09-06,Baltimore / Norfolk,USA,Loading,0.22,0.37,3.59,79,1,"Synthetic (2011-2026, calibrated to Ministry TRT & UNCTAD patterns)"
 2026-09-05,Baltimore / Norfolk,USA,Loading,0.24,0.31,3.55,78,1,"Synthetic (2011-2026, calibrated to Ministry TRT & UNCTAD patterns)"
 2026-09-04,Baltimore / Norfolk,USA,Loading,0.21,0.3,3.51,77,1,"Synthetic (2011-2026, calibrated to Ministry TRT & UNCTAD patterns)"
